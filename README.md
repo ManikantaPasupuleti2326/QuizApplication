@@ -255,8 +255,8 @@ You can include screenshots such as:
 
 **Java Backend Developer**
 
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-* GitHub: https://github.com/your-github-username
+* LinkedIn: https://www.linkedin.com/in/manikanta-pasupuleti
+* GitHub: https://github.com/ManikantaPasupuleti2326
 
 ---
 
